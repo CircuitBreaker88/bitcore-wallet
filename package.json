@@ -10,7 +10,7 @@
     "wallet"
   ],
   "repository": {
-    "url": "git@github.com:bitpay/bitcore-wallet.git",
+    "url": "git@github.com:MoneyByte/bitcore-wallet.git",
     "type": "git"
   },
   "bugs": {},
@@ -43,6 +43,10 @@
     {
       "name": "Matias Alejo Garcia",
       "email": "ematiu@gmail.com"
+    },
+    {
+      "name": "CircuitBreaker",
+      "email": "circuitbreaker88@protonmail.com"
     }
   ],
   "bin": {
